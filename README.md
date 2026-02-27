@@ -1,7 +1,7 @@
 **Languages**  
 - 🇬🇧 English (this document) 
 - 🇫🇷 Version française: [README-fr.md](README-fr.md)
-- 
+  
 # Where to converge? Project management in the age of AI agents
 
 > *Open reflection — February 2026*
