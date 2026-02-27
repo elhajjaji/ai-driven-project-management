@@ -453,8 +453,9 @@ La question mérite d'être posée. Et peut-être que d'autres proposeront de me
 *Ce document est une base de réflexion ouverte destinée à alimenter une discussion sur l'évolution des pratiques de gestion de projets à l'ère des agents IA.*
 
 *Rédigé avec l'assistance d'une IA — les réflexions restent celles de l'auteur.*
+
 ---
 
 > **Note de l'auteur**
->
 > Si vous êtes arrivés à ce paragraphe, alors même si cette réflexion n'est pas la bonne, la question mérite d'être posée. Ce document n'est ni dogme ni prophétie. C'est une réflexion personnelle, imparfaite, sur un territoire en formation. Si vous avez une meilleure analyse ou un meilleur pattern à proposer, le dialogue est ouvert.
+
