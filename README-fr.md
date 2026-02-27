@@ -452,6 +452,7 @@ La question mérite d'être posée. Et peut-être que d'autres proposeront de me
 
 *Ce document est une base de réflexion ouverte destinée à alimenter une discussion sur l'évolution des pratiques de gestion de projets à l'ère des agents IA.*
 
+*Rédigé avec l'assistance d'une IA — les réflexions restent celles de l'auteur.*
 ---
 
 > **Note de l'auteur**
