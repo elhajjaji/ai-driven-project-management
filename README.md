@@ -453,6 +453,7 @@ The question deserves to be asked. And perhaps others will propose better answer
 *This document is an open reflection intended to fuel a discussion on the evolution of project management practices in the age of AI agents.*
 
 *Written with AI assistance — the reflections remain the author's own.*
+
 ---
 
 > **Author's note**
